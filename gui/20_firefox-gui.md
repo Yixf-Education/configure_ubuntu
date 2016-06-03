@@ -30,6 +30,7 @@
 * RescueTime for Firefox
 * S3.Google Translator
 * Session Manager
+* SimpleSort Bookmarks #
 * SmoothWheel(AMO)
 * Speed Dial #
 * Speed Dial [FVD]
