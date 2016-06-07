@@ -6,6 +6,7 @@
 * iMacros for Chrome
 * LastPass: Free Password Manager
 * Live On
+* Markdown Preview Plus
 * OneTab
 * Proxy SwitchyOmega
 * RescueTime for Chrome & ChromeOS
