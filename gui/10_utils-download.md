@@ -83,3 +83,7 @@
 ### CrossOver
 * 网站：https://www.codeweavers.com
 
+### TeamViewer
+* 网站：https://www.teamviewer.com
+* 链接：http://download.teamviewer.com/download/teamviewer_i386.deb
+
