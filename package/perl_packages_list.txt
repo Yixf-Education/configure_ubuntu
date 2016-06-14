@@ -10,4 +10,5 @@ List::Util
 Logfile::Rotate
 Pod::Usage
 Tk
-
+Bio::DB::Sam
+Bio::ViennaNGS
