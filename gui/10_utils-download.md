@@ -87,3 +87,6 @@
 * 网站：https://www.teamviewer.com
 * 链接：http://download.teamviewer.com/download/teamviewer_i386.deb
 
+### Pick
+* 网站：http://kryogenix.org/code/pick/
+
