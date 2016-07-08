@@ -90,3 +90,8 @@
 ### Pick
 * 网站：http://kryogenix.org/code/pick/
 
+### Anaconda
+* 网站：https://www.continuum.io/downloads
+* 链接：http://repo.continuum.io/archive/Anaconda2-4.1.0-Linux-x86_64.sh
+* 链接：http://repo.continuum.io/archive/Anaconda3-4.1.0-Linux-x86_64.sh
+

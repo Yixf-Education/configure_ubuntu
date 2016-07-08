@@ -1,5 +1,6 @@
 bitops
 caTools
+caret
 data.table
 devtools
 digest
