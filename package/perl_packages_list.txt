@@ -12,3 +12,6 @@ Pod::Usage
 Tk
 Bio::DB::Sam
 Bio::ViennaNGS
+HTML::TableExtract
+LWP::Simple
+Spreadsheet::WriteExcel
