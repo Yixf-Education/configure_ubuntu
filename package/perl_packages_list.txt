@@ -15,3 +15,5 @@ Bio::ViennaNGS
 HTML::TableExtract
 LWP::Simple
 Spreadsheet::WriteExcel
+HTML::Parse
+Mojo::DOM
