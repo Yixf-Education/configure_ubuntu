@@ -4,6 +4,7 @@
 * Chromebook Recovery Utility#
 * crxMouse Chrome Gestures
 * cVim
+* EverSync
 * iMacros for Chrome
 * LastPass: Free Password Manager
 * Live On
