@@ -44,6 +44,8 @@
 * Show sidebar on --> "right side"
 ### FoxyProxy Standard
 * Import Settings
+### FVD Speed Dial
+* Settings --> Sync（输入账户同步/下载）
 ### Google Translator
 * Target Language --> "Ch (Simplified)"
 ### iMacros for Firefox
