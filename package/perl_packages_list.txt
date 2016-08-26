@@ -10,9 +10,13 @@ Config::General
 Cwd
 Dancer
 Dancer2
+Data::Dump
+Data::Dump::Streamer
 Data::Dumper
+Data::Dumper::Concise
 Data::Printer
 DateTime
+Devel::REPL
 Digest::MD5
 Fcntl
 File::Temp
@@ -39,6 +43,7 @@ namespace::clean
 Path::Tiny
 perl5i
 Pod::Usage
+Reply
 Scalar::Util
 Spreadsheet::WriteExcel
 Sub::Util
