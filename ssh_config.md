@@ -1,6 +1,6 @@
 # 客户端生成公钥和私钥
 ```
-cd .ssh
+cd ~/.ssh
 ssh-keygen -t rsa -f NAME
 ```
 
