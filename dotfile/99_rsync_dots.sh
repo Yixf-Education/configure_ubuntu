@@ -11,3 +11,4 @@ rsync -avz /home/yixf/.latexmkrc /education/GitHub/configure_ubuntu/dotfile/dots
 
 rsync -avz /home/yixf/.conky /education/GitHub/configure_ubuntu/dotfile/dots
 
+rsync -avz /home/yixf/.ssh /education/GitHub/configure_ubuntu/dotfile/dots

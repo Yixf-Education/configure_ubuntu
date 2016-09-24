@@ -11,3 +11,4 @@ rsync -avz /home/yixf/.latexmkrc /backup/Dropbox/config_ubuntu/dotfile/dots
 
 rsync -avz /home/yixf/.conky /backup/Dropbox/config_ubuntu/dotfile/dots
 
+rsync -avz /home/yixf/.ssh /backup/Dropbox/config_ubuntu/dotfile/dots
