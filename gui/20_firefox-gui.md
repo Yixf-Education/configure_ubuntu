@@ -27,6 +27,7 @@
 * QuickMark #
 * QuickDrag
 * Reader #
+* Remarkerbe
 * RescueTime for Firefox
 * S3.Google Translator
 * Session Manager
