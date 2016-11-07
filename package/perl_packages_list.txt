@@ -35,5 +35,6 @@ Sub::Util
 Test2
 Test::Simple
 Tie::File
+Time::HiRes
 Tk
 Type::Tiny
