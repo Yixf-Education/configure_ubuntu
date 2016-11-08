@@ -2,6 +2,7 @@ AnyEvent
 App::Ack
 App::perlbrew
 Bio::DB::Sam
+Bio::ToolBox
 Bio::ViennaNGS
 CGI
 Cwd
