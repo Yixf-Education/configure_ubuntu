@@ -1,5 +1,6 @@
 AnyEvent
 App::Ack
+App::p
 App::perlbrew
 Bio::DB::Sam
 Bio::ToolBox
@@ -8,6 +9,7 @@ CGI
 Cwd
 Data::Dump
 Data::Dump::Streamer
+Data::Frame
 Data::Printer
 Data::Table
 Devel::REPL
@@ -31,6 +33,7 @@ perl5i
 Pod::Usage
 Reply
 Spreadsheet::WriteExcel
+Statistics::NiceR
 Sub::Util
 Test2
 Test::Simple
