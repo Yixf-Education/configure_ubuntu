@@ -19,4 +19,16 @@ Try::Tiny
 List::Util
 Carp
 Scalar::Util
-
+Storable
+Data::Dump
+Data::Printer
+YAML
+JSON
+File::Find
+File::Find::Closures
+B
+B::Deparse
+PadWalker
+Data::Dump::Streamer
+Time::Local
+#Chapter8...
