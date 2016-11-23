@@ -2,6 +2,7 @@ change_grub_time#
 change_home_dir_english#
 change_indicator_order#
 disable_crash#
+disable_ipv6
 fix_gedit_code
 fix_rstudio_fcitx
 fix_wps_fcitx
