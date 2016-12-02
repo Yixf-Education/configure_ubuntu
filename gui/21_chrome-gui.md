@@ -38,4 +38,5 @@
 * Sexy History#
 * Sexy Undo Close Tab#
 * 迅雷，快车，旋风专用链自动破解#
+* ​谷歌搜索优化#
 * ​
