@@ -41,6 +41,7 @@
 * Tree Style Tab
 * VimFx
 * WOT
+* 方片收集
 
 ## 插件配置
 ### All-in-one Sidebar
