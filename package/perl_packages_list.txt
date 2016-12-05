@@ -17,6 +17,8 @@ Fcntl
 File::Temp
 Gtk2
 Gtk3
+Getopt::Long
+Getopt::Long::Descriptive
 HTML::Parse
 HTTP::Tiny
 IO::All
