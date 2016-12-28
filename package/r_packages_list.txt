@@ -1,6 +1,7 @@
 argparse
 argparser
 bitops
+broom
 caTools
 caret
 data.table
@@ -21,6 +22,7 @@ magrittr
 markdown
 moments
 plotly
+purrr
 RColorBrewer
 readr
 rmarkdown
@@ -29,6 +31,8 @@ rticles
 stringr
 testit
 tidyr
+tidytext
+tidyverse
 xtable
 yaml
 
