@@ -33,6 +33,7 @@ testit
 tidyr
 tidytext
 tidyverse
+viridis
 xtable
 yaml
 
