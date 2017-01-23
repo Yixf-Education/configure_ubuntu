@@ -42,6 +42,7 @@
 * VimFx
 * WOT
 * 方片收集
+* 购物党
 
 ## 插件配置
 ### All-in-one Sidebar
