@@ -1,1 +1,1 @@
-sudo apt -y install chromium-browser unity-chromium-extension
+sudo apt -y install chromium-browser
